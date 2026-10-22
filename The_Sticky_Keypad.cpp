@@ -1,3 +1,13 @@
+/*
+  Problem : The Sticky Keypad (CodeChef)
+  Link    : https://www.codechef.com/problems/EXKEYPAD
+  Idea    : Find the first digit equal to D. Keep everything before it,
+            raise that digit by one (carry if D = 9, skip D if the carry
+            lands on it), then fill the rest with the smallest allowed
+            digit (0, or 1 when D = 0).
+  Time    : O(number of digits) per test case
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
