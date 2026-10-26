@@ -11,7 +11,13 @@
  */
 class Solution {
 public:
-    bool isBalanced(TreeNode* root) {
-        
+    int levels(TreeNode* root){
+        if(!root) return 0;
+        return 1+max(levels(root->left), levels(root->right));
     }
+
+    bool isBalanced(TreeNode* root) {
+        if(!root) return true;
+        return abs(levels(root->left)-levels(root->right))<=1 && isBalanced(root->left) && isBalanced(root->right); 
+        }
 };
