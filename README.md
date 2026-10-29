@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
