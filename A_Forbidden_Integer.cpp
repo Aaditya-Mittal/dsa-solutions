@@ -59,9 +59,35 @@ void solve() {
     int t;
     cin>>t;
     while(t--){
-        int a, b, c;
-        cin>>a>>b>>c;
-        
+        int n, k, x;
+        cin>>n>>k>>x;
+        if(x!=1){
+            cout<<"YES"<<endl;
+            cout<<n<<endl;
+            fr(i,0,n) cout<<"1"<<" ";
+            cout<<endl;
+            continue;
+        }
+        else{
+            if((n%2==1 && k<=2) || k==1){
+                cout<<"NO"<<endl;
+            }
+            else if(n%2==0){
+                cout<<"YES"<<endl;
+                cout<<n/2<<endl;
+                fr(i,0,n/2) cout<<"2"<<" ";
+                cout<<endl;
+            }
+            else{
+                cout<<"YES"<<endl;
+                cout<<1 + (n-3)/2<<endl;
+                cout<<"3"<<" ";
+                n-=3;
+                fr(i,0,n/2) cout<<"2"<<" ";
+                cout<<endl;
+            }
+            continue;
+        }
     }
     return;
 }
