@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
