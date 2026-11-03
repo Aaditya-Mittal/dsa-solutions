@@ -64,7 +64,17 @@ void solve() {
         string s;
         cin>>s;
         int ans = 1;
-        
+        int maxi = 1;
+        fr(i,1, s.size()){
+            if(s[i]==s[i-1]){
+                ans++;
+            }
+            else{
+                ans=1;
+            }
+            maxi = max(ans, maxi);
+        }
+        cout<<maxi+1<<endl;
     }
     return;
 }
