@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0392-is-subsequence) |
 ## Counting
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
