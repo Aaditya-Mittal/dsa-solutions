@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0392-is-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
