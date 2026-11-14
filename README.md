@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0383-ransom-note) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1399-count-largest-group](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1399-count-largest-group) |
 ## String
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0504-base-7) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 ## Counting
 |  |
 | ------- |
@@ -191,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/2396-strictly-palindromic-number) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
