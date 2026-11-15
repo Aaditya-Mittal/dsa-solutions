@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0654-maximum-binary-tree](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0654-maximum-binary-tree](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0654-maximum-binary-tree) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0654-maximum-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -201,4 +205,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0535-encode-and-decode-tinyurl) |
+## Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0654-maximum-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
