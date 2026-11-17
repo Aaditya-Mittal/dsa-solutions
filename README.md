@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0415-add-strings) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 ## Number Theory
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0654-maximum-binary-tree) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
