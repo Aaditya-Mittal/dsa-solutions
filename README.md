@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1399-count-largest-group) |
 | [2396-strictly-palindromic-number](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/2396-strictly-palindromic-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3945-digit-frequency-score](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1399-count-largest-group](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1399-count-largest-group) |
+| [3945-digit-frequency-score](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
