@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0415-add-strings) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [3838-weighted-word-mapping](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0504-base-7) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [3110-score-of-a-string](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3110-score-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3838-weighted-word-mapping](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
