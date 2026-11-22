@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0415-add-strings) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [3248-snake-in-matrix](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3248-snake-in-matrix) |
 | [3838-weighted-word-mapping](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3110-score-of-a-string](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3110-score-of-a-string) |
+| [3248-snake-in-matrix](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3248-snake-in-matrix) |
 | [3838-weighted-word-mapping](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3248-snake-in-matrix](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3248-snake-in-matrix) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3838-weighted-word-mapping) |
 ## Sorting
