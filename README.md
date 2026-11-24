@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3110-score-of-a-string](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3110-score-of-a-string) |
 | [3248-snake-in-matrix](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3248-snake-in-matrix) |
+| [3340-check-balanced-string](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3340-check-balanced-string) |
 | [3838-weighted-word-mapping](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
