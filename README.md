@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0509-fibonacci-number) |
 | [1399-count-largest-group](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1399-count-largest-group) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2396-strictly-palindromic-number](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/2396-strictly-palindromic-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3945-digit-frequency-score](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3945-digit-frequency-score) |
