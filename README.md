@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0383-ransom-note) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [0771-jewels-and-stones](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0771-jewels-and-stones) |
 | [1399-count-largest-group](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1399-count-largest-group) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3945-digit-frequency-score](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3945-digit-frequency-score) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0504-base-7) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [0771-jewels-and-stones](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0771-jewels-and-stones) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3110-score-of-a-string](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3110-score-of-a-string) |
 | [3248-snake-in-matrix](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3248-snake-in-matrix) |
