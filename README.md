@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3110-score-of-a-string) |
 | [3248-snake-in-matrix](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3248-snake-in-matrix) |
 | [3340-check-balanced-string](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3340-check-balanced-string) |
+| [3794-reverse-string-prefix](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/0392-is-subsequence) |
 | [2396-strictly-palindromic-number](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/2396-strictly-palindromic-number) |
+| [3794-reverse-string-prefix](https://github.com/Aaditya-Mittal/dsa-solutions/tree/master/3794-reverse-string-prefix) |
 ## Enumeration
 |  |
 | ------- |
